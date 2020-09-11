@@ -7,12 +7,15 @@ body {
 
 
 p {
-font-family: Iceland; 
-  font-size: 24px;
-  font-style: normal; 
-  font-variant: normal;
-  font-weight: 700;
-  line-height: 26.4px; 
+    margin: 20px 0 20px 0;
+    text-align: center;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700px;
+    line-height: 220px;
+    font-size: 81px;
+    color: #228DFF;
+    font-family: Iceland;
 }
 
 p:hover {
