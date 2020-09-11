@@ -4,11 +4,6 @@ body {
   background-color: #222222;
   background: repeating-linear-gradient(45deg, #2b2b2b 0%, #2b2b2b 10%, #222222 0%, #222222 50%) 0 / 15px 15px;
 }
-.box{
-min-height:70 px;
- color:blue;
-
-}
 
 p {
     margin: 20px 0 20px 0;
@@ -44,4 +39,11 @@ p:hover {
     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #228DFF, 0 0 35px #228DFF, 0 0 40px #228DFF, 0 0 50px #228DFF, 0 0 75px #228DFF;
   }
 }
+
+.box{
+min-height:70 px;
+ color:blue;
+
+}
+
 
