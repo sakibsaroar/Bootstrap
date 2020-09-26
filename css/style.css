@@ -26,8 +26,10 @@ p {
 .curd{
 
 margin:10px 10px;
-height:28rem;  
-
+  
+}
+.imgsz{
+height:286px;
 }
 
 p:hover {
