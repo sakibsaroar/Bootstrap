@@ -31,6 +31,10 @@ margin:10px 10px;
 .imgsz{
 height:286px;
 }
+.imgsz1{
+height:50%;
+
+}
 
 p:hover {
   -webkit-animation: neon2 1.5s ease-in-out infinite alternate;
