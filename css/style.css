@@ -23,6 +23,13 @@ p {
     font-family: Iceland;
 }
 
+.curd{
+
+margin:10px 10px;
+height:28rem;  
+
+}
+
 p:hover {
   -webkit-animation: neon2 1.5s ease-in-out infinite alternate;
   animation: neon2 1.5s ease-in-out infinite alternate;
